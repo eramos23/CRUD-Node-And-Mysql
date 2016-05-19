@@ -1,0 +1,19 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "a simple project!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eramos23/CRUD-Node-And-Mysql.git"
+  },
+  "author": "eramos23 <raicer1996@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eramos23/CRUD-Node-And-Mysql/issues"
+  },
+  "homepage": "https://github.com/eramos23/CRUD-Node-And-Mysql#readme"
+}
